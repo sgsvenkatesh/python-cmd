@@ -1,1 +1,1 @@
-python launch.py protocol url tld
+python launch.py --protocol="http" --url="google" --tld="com"
